@@ -1,2 +1,3 @@
-# VAOS-Core-L5
-VAOS Core for Laravel 5.3
+# VAOS-Core
+
+Contained in this repository are the sources for the VAOS Module for Laravel 5.x
